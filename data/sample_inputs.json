@@ -1,0 +1,123 @@
+{
+  "sample_cases": [
+    {
+      "id": "case_1_senior_fullstack",
+      "description": "Senior Full-Stack Engineer - Fast-Growing Startup",
+      "job_description": "Senior Full-Stack Engineer - Fintech Platform\n\nAbout Us:\nWe're a rapidly growing fintech startup processing $100M+ in transactions monthly.\n\nRole Description:\nLead technical development of our core payment platform. You'll own services end-to-end, from database design to user-facing features.\n\nRequired Skills:\n- 5+ years software development experience\n- Expert-level Python (Django/FastAPI)\n- Strong React/TypeScript for frontend\n- AWS cloud architecture and optimization\n- PostgreSQL & database design\n- Docker & Kubernetes (production experience)\n- REST API design & microservices\n- Git & CI/CD pipelines\n- System design & scalability\n- SQL optimization for large datasets\n\nPreferred Skills:\n- Redis/caching strategies\n- GraphQL experience\n- AWS Lambda & serverless\n- Payment processing domain knowledge\n- Leadership/mentoring experience\n\nNice to Have:\n- Open source contributions\n- Machine learning basics\n- DevOps experience\n\nCompensation: $180-220K + equity",
+      "resume": "JOHN SMITH\njohn.smith@email.com | (415) 555-0123 | linkedin.com/in/johnsmith\nSan Francisco, CA\n\nPROFESSIONAL SUMMARY\nExperienced Full-Stack Engineer with 4 years in building scalable web applications. Proficient in Python and JavaScript with hands-on experience in cloud infrastructure and database optimization. Successfully led migration of monolithic application to microservices, reducing API latency by 60%.\n\nEXPERIENCE\nSoftware Engineer II | TechCorp (2022-Present) | 2 years\n- Led development of 3 microservices using Python and FastAPI\n- Implemented Redis caching layer, reducing DB queries by 40%\n- Owned MySQL database optimization (query optimization, indexing)\n- Wrote 200+ REST API endpoints following OpenAPI standards\n- Mentored 2 junior developers on best practices\n\nSoftware Engineer | DataSystems Inc (2020-2022) | 2 years\n- Built React/TypeScript frontend for data analytics platform\n- Developed Python Django backend for ETL pipelines\n- Set up Docker containerization for 5 services\n- Experience with AWS RDS, EC2, and S3\n- Basic Kubernetes knowledge from managed EKS cluster\n\nIntern | StartupXYZ (Summer 2019) | 3 months\n- Built simple REST APIs using Python Flask\n- Frontend work with vanilla JavaScript\n\nTECHNICAL SKILLS\nLanguages: Python (Expert), JavaScript (Intermediate), TypeScript (Beginner), SQL (Advanced)\nBackend: Django (Expert), FastAPI (Intermediate), Flask (Beginner)\nFrontend: React (Intermediate), HTML/CSS (Intermediate)\nDatabases: MySQL (Advanced), PostgreSQL (Intermediate), Redis (Beginner)\nCloud: AWS (Intermediate) - EC2, RDS, S3, Lambda basics\nDevOps: Docker (Intermediate), Kubernetes (Beginner), CI/CD (GitHub Actions basics)\nOther: REST APIs (Expert), Microservices (Intermediate), System Design (Beginner)\n\nEDUCATION\nB.S. Computer Science | State University (2019)\nRelevant Coursework: Data Structures, Algorithms, Database Systems, Web Development\n\nCERTIFICATIONS\n- AWS Certified Cloud Practitioner (2021)\n\nOPEN SOURCE\n- Minor contributions to Django REST Framework\n\nADDITIONAL\n- Passionate about clean code and testing\n- Active learner staying current with industry trends",
+      "expected_output": {
+        "skills_assessed": [
+          "Python",
+          "Django/FastAPI",
+          "React",
+          "TypeScript",
+          "AWS",
+          "PostgreSQL",
+          "Docker",
+          "Kubernetes",
+          "REST API Design",
+          "System Design"
+        ],
+        "assessment_summary": {
+          "overall_fit_score": 0.68,
+          "feedback": "John has solid foundation with 4 years experience, but several critical gaps for senior role"
+        },
+        "critical_gaps": [
+          {
+            "skill": "TypeScript",
+            "current": "Beginner",
+            "required": "Advanced",
+            "reason": "Needed for React frontend work, currently weak"
+          },
+          {
+            "skill": "System Design",
+            "current": "Beginner",
+            "required": "Advanced",
+            "reason": "Critical for senior-level architectural decisions"
+          },
+          {
+            "skill": "Kubernetes",
+            "current": "Beginner",
+            "required": "Intermediate",
+            "reason": "Production Kubernetes experience required"
+          }
+        ],
+        "high_priority_gaps": [
+          "FastAPI mastery",
+          "PostgreSQL optimization at scale",
+          "Advanced AWS services"
+        ],
+        "learning_plan_hours": 90,
+        "recommended_focus_order": [
+          "1. System Design Fundamentals (30 hours)",
+          "2. Advanced TypeScript & React Patterns (25 hours)",
+          "3. FastAPI Production Patterns (20 hours)",
+          "4. Kubernetes Deep Dive (15 hours)"
+        ]
+      }
+    },
+    {
+      "id": "case_2_junior_backend",
+      "description": "Junior Backend Engineer - SaaS Company",
+      "job_description": "Junior Backend Engineer - Python/Django\n\nWe're looking for a Junior Backend Engineer to join our growing team. You'll work on our Django-based SaaS platform serving 10,000+ customers.\n\nRequired Skills:\n- Proficiency in Python (2+ years)\n- Django framework experience (at least 1 year)\n- SQL and relational databases\n- REST API development\n- Basic Git knowledge\n- Linux/Unix command line basics\n\nPreferred Skills:\n- Experience with PostgreSQL\n- Docker basics\n- Testing (pytest/unittest)\n- Agile/Scrum experience\n\nNice to Have:\n- API documentation experience\n- Cloud platform exposure (AWS/GCP/Azure)\n- Message queues (Celery, Redis)\n\nWhat We Offer:\n- Mentorship from senior engineers\n- Learning opportunities\n- Growth path to mid-level engineer",
+      "resume": "SARAH JOHNSON\nsarah.j@email.com | (415) 555-9876\nGitHub: github.com/sarahjohnson\nSan Jose, CA\n\nOBJECTIVE\nEager junior developer seeking backend engineering role to apply academic knowledge and grow technical skills in production environment.\n\nEXPERIENCE\nJunior Software Developer (Internship) | TechBootcamp Co (6 months, 2023)\n- Developed 5 Django REST API endpoints for task management application\n- Wrote SQL queries for user analytics dashboard\n- Created unit tests using pytest (80% code coverage)\n- Used Git for version control and collaborated with 3 developers\n- Fixed 15+ bugs reported by QA team\n\nEducation Projects:\n- Built blog platform with Django (from course, GitHub repo)\n- Created RESTful todo API following REST principles\n- Implemented user authentication and authorization\n\nTECHNICAL SKILLS\nLanguages: Python (Intermediate), JavaScript (Beginner), SQL (Beginner)\nBackend: Django (Intermediate), DRF - Django REST Framework (Intermediate)\nDatabases: PostgreSQL (Beginner), SQLite (Beginner)\nTools: Git (Beginner), Linux (Beginner), Docker (Beginner - aware only)\nTesting: pytest (Beginner), unittest (Beginner)\nOther: REST API (Beginner), HTML/CSS (Beginner)\n\nEDUCATION\nPython Backend Developer Bootcamp | TechBootcamp Academy (2023) - 12 weeks\nB.S. Information Technology | Community College (2022)\n\nCURRENTLY LEARNING\n- Advanced Django patterns\n- PostgreSQL database design\n- Test-driven development\n- Docker containerization\n\nCERTIFICATIONS\n- Python Developer Basics (Udemy)\n\nPORTFOLIO PROJECTS\n- Django Blog Platform (source: GitHub)\n- REST API Todo App (source: GitHub)\n- E-commerce Product Catalog (incomplete, learning project)",
+      "expected_output": {
+        "overall_fit_score": 0.85,
+        "feedback": "Sarah is well-prepared for this junior role. Strong Python and Django fundamentals with some gaps in PostgreSQL and testing.",
+        "assessment": {
+          "strengths": [
+            "Solid Django foundation from bootcamp",
+            "Basic REST API understanding",
+            "Testing awareness",
+            "Git basics covered"
+          ],
+          "gaps": [
+            {
+              "skill": "PostgreSQL",
+              "level": "Beginner → Intermediate",
+              "hours": 15,
+              "priority": "high"
+            },
+            {
+              "skill": "Testing (pytest)",
+              "level": "Beginner → Intermediate",
+              "hours": 12,
+              "priority": "high"
+            },
+            {
+              "skill": "SQL optimization",
+              "level": "Beginner",
+              "hours": 10,
+              "priority": "medium"
+            }
+          ]
+        },
+        "learning_plan": [
+          {
+            "skill": "PostgreSQL",
+            "hours": 15,
+            "resources": [
+              "PostgreSQL Tutorial (official docs)",
+              "SQL Performance Explained",
+              "Database design mini-course"
+            ]
+          },
+          {
+            "skill": "Advanced Testing",
+            "hours": 12,
+            "resources": [
+              "pytest documentation",
+              "Test-driven development course",
+              "Code coverage best practices"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "test_job_descriptions": {
+    "ml_engineer": "Machine Learning Engineer\n\nRequirements:\n- Python (3+ years)\n- Deep learning (PyTorch/TensorFlow)\n- Computer vision or NLP\n- ML ops & MLflow\n- Cloud platforms\n- Statistics & mathematics\n- Linux/Docker\n\nPreferred:\n- Kaggle competitions\n- Research publications\n- Edge ML",
+    "devops_engineer": "DevOps/SRE Engineer\n\nRequirements:\n- Kubernetes (production experience)\n- Docker & containerization\n- CI/CD (Jenkins, GitLab CI)\n- Infrastructure as Code (Terraform/CloudFormation)\n- Monitoring (Prometheus, Grafana)\n- Linux system administration\n- Cloud (AWS/GCP/Azure)\n- Scripting (Bash, Python)\n\nPreferred:\n- Helm charts\n- Service mesh (Istio/Linkerd)\n- Security hardening",
+    "data_engineer": "Data Engineer\n\nRequirements:\n- SQL (advanced)\n- Python/Scala\n- Big data (Spark, Hadoop)\n- Data warehousing\n- ETL pipeline design\n- Cloud data platforms (Snowflake/BigQuery)\n- Data modeling\n\nPreferred:\n- Real-time streaming (Kafka, Flink)\n- Data quality frameworks\n- DBT or similar tools"
+  }
+}
